@@ -43,6 +43,8 @@ makeLMO
 makeFigureS4
 ```
 
+![Illustration](https://github.com/marlow17/PredictingGroundReactionForces/blob/main/images/Illustration.png)
+
 ## Content
 
 - main: Main script that can be used to re-produce all results and figures from publication above. 

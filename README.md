@@ -1,6 +1,6 @@
 # PredictingGroundReactionForces
 
-Toolbox to train, validate, and test using a reservoir computer to predict vertical ground reaction forces based on shank accelerometer data. The code and data is related to the publication: “Predicting vertical ground reaction forces from 3D accelerometery using echo state networks leads to accurate gait event detection” Margit M. Bach, Nadia Dominici, and Andreas Daffertshofer. Department of Human Movement Sciences, Faculty of Behavioural and Movement Sciences, Amsterdam Movement Sciences & Institute of Brain and Behavior Amsterdam, Vrije Universiteit Amsterdam, Amsterdam, The Netherlands. 
+Toolbox to train, validate, and test using a reservoir computer to predict vertical ground reaction forces based on shank accelerometer data. The code and data is related to the publication: “Predicting vertical ground reaction forces from 3D accelerometery using reservoir computers leads to accurate gait event detection” Margit M. Bach, Nadia Dominici, and Andreas Daffertshofer. Department of Human Movement Sciences, Faculty of Behavioural and Movement Sciences, Vrije Universiteit Amsterdam, The Netherlands. 
 
 Please cite our paper when using the code.
 

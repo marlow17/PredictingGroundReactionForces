@@ -1,0 +1,23 @@
+
+<strong>Training strides and val./testing strides gait data with (50,25,25)% split ...</strong>
+
+<strong>Type    	Name    	all        	walking    	running    </strong>
+------------------------------------------------------------------------------
+train   	R2      	0.989±0.001	0.995±0.000	0.994±0.001
+        	epsilon 	3.5±0.1    	2.7±0.1    	2.3±0.1     %
+        	footOnMAE	10.5±0.1   	10.0±0.2   	10.6±0.1    ms
+        	footOffMAE	10.6±0.2   	10.3±0.2   	10.2±0.4    ms
+validate	R2      	0.984±0.003	0.992±0.002	0.987±0.005
+        	epsilon 	3.9±0.2    	3.1±0.2    	3.0±0.3     %
+        	footOnMAE	10.5±0.3   	9.8±0.4    	10.5±0.3    ms
+        	footOffMAE	10.5±0.4   	10.1±0.4   	10.1±0.6    ms
+test    	R2      	0.983±0.004	0.992±0.002	0.985±0.006
+        	epsilon 	3.9±0.2    	3.1±0.2    	3.1±0.3     %
+        	footOnMAE	10.5±0.2   	9.9±0.3    	10.5±0.3    ms
+        	footOffMAE	10.4±0.4   	10.1±0.4   	10.0±0.6    ms
+------------------------------------------------------------------------------
+
+storeFigures(fig,'figures');
+makeFigure3
+close all
+storeFigures(fig,'figures');

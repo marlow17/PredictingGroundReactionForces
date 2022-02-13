@@ -6,8 +6,7 @@ Please cite our paper when using the code.
 
 The reservoir computer is able to predict vertical ground reaction forces from shank accelerometer data. The only input needed is a data set containing accelerations and ground reaction forces [also provided]. The trained reservoir can be applied on own data.
 
-The code runs in Matlab and is written and tested in version MATLAB_2020b. It builds on M. Lukoševičius' ESNToolbox - see https://www.ai.rug.nl/minds/research/esnresearch/ and uses Bastian Bechtold's Violin Plots for Matlab, Github Project  
-https://github.com/bastibe/Violinplot-Matlab, DOI: 10.5281/zenodo.4559847
+The code runs in Matlab and is written and tested in version 2020b. It builds on M. Lukoševičius' ESNToolbox - see https://www.ai.rug.nl/minds/research/esnresearch/ and uses Bastian Bechtold's Violin Plots for Matlab, Github Project https://github.com/bastibe/Violinplot-Matlab, DOI: 10.5281/zenodo.4559847.
 
 ## Usage
 
@@ -86,6 +85,10 @@ makeFigureS4
   - eventSanityCheck: Check for agreement between number of events detected in predicted and target data
   - reportLMO: Report output of LMO cross-validation
   - reportStats: Report output of statistical analyses
+
+- external (we did not include the folder but its content can be found at the listed URLs)
+  - ESNToolbox -> https://www.ai.rug.nl/minds/uploads/ESNToolbox.zip
+  - Violinplot-Matlab -> https://github.com/bastibe/Violinplot-Matlab
 
 ## Dataset
 

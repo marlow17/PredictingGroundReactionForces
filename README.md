@@ -2,7 +2,7 @@
 
 Toolbox to train, validate, and test using a reservoir computer to predict vertical ground reaction forces based on shank accelerometer data. The code and data is related to the publication: “Predicting vertical ground reaction forces from 3D accelerometery using reservoir computers leads to accurate gait event detection” Margit M. Bach, Nadia Dominici, and Andreas Daffertshofer. Department of Human Movement Sciences, Faculty of Behavioural and Movement Sciences, Vrije Universiteit Amsterdam, The Netherlands. 
 
-Please cite our paper when using the code.
+Please cite our paper when using the code: https://doi.org/10.1101/2022.02.14.480318.
 
 The reservoir computer is able to predict vertical ground reaction forces from shank accelerometer data. The only input needed is a data set containing accelerations and ground reaction forces [also provided]. The trained reservoir can be applied on own data.
 
